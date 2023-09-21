@@ -10,7 +10,7 @@ Alinhamento de três quadrados na horizontal
 
 ## Tarefa 3
 Input que escreve na tela conforme o usuário digita
-![Erro](imagens/3.jpg)
+![Erro](imagens/3jpg.jpg)
 
 ## Tarefa 4
 Calculadora com as 4 principais operações (soma, subtração, divisão e multiplicação)
